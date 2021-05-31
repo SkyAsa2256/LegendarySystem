@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "legendarysystem",
+    "name": "Legendarysystem",
+    "description": "Send Discord Webhook when Legendary Pokemon spawned on the server.",
+    "version": "0.2",
+    "mcversion": "1.12.2",
+    "url": "https://discord.gg/J37Sd4C8fH",
+    "updateUrl": "https://discord.gg/jKU7pjmFFc",
+    "authorList": [
+      "Asa",
+      "Sayakie"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
